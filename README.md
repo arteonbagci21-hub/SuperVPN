@@ -37,14 +37,6 @@ Aşağıdaki bağlantıdan en güncel sürümü indirebilirsiniz:
 
 ---
 
-## ☕ Projeye Destek Ol / Support Us
-
-SuperVPN ve Infinity AI gibi açık kaynaklı projelerimizin sunucu ve geliştirme maliyetlerine destek olmak isterseniz bize bir kahve ısmarlayabilirsiniz! 🚀
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arteon)
-
----
-
 ## 📜 Lisans
 
 Bu proje **Arteon AI Co.** tarafından geliştirilmiş olup açık kaynaklıdır.
