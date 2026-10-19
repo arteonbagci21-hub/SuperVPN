@@ -1,46 +1,50 @@
-# Arteon Custom VPN Client 🛡️⚡
+# 🛡️ SuperVPN - Free DPI & DNS Service
 
-A fast, lightweight, and secure standalone VPN client designed to provide seamless networking and enhanced privacy without requiring Python or extra runtime dependencies.
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Platform](https://img.shields.io/badge/platform-Windows-lightgrey)
+![License](https://img.shields.io/badge/license-MIT-green)
 
-## ✨ Features
+**SuperVPN**, internet kısıtlamalarını aşmak, DPI (Deep Packet Inspection) engellerini kaldırmak ve güvenli bir bağlantı sağlamak için **Arteon AI Co.** altyapısı ile geliştirilmiş hafif ve bağımsız bir Windows servis uygulamasıdır.
 
-* **No Python Required:** Runs as a standalone application directly on your device.
-* **High Speed & Low Latency:** Optimized for minimum packet loss and maximum throughput.
-* **Seamless DNS Integration:** Utilizes secure DNS protocols for optimal query speeds and privacy.
-* **Easy-to-Use:** Quick setup with straightforward connection controls.
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-* **1.1.1.1 WARP / Cloudflare DNS:** Ensure Cloudflare's 1.1.1.1 DNS/WARP service is set up on your device if it is not already installed.
-
-#### Installing 1.1.1.1 DNS (If Not Installed):
-1. Visit the official website: [https://1.1.1.1](https://1.1.1.1)
-2. Download and install the client appropriate for your operating system (Windows, macOS, Linux, Android, or iOS).
-3. Follow the on-screen prompt to enable 1.1.1.1 / WARP DNS services.
+Python veya herhangi bir ek yazılım bağımlılığı gerektirmeden, doğrudan çalıştırılabilir (.exe) yapısıyla hızlıca kurulur ve çalışır.
 
 ---
 
-### Installation & Execution
+## 🚀 İndir (Download)
 
-1. **Download the Release:**
-   Download the latest executable binary from the [Releases](../../releases) section of this repository.
+Aşağıdaki bağlantıdan en güncel sürümü indirebilirsiniz:
 
-2. **Run the VPN Client:**
-   Launch the executable file directly—no installation scripts or Python environments required!
+👉 [** SuperVPN (.exe) İndir**](https://linkvertise.com/10248007/tHvrOBXcKRla)
 
-## 🛠️ Usage
+---
 
-1. Open the **Arteon VPN** executable.
-2. Ensure your 1.1.1.1 DNS service is active.
-3. Click **Connect** to establish your secure VPN tunnel.
-4. Click **Disconnect** whenever you wish to terminate the connection.
+## ⚡ Özellikler
 
-## 🤝 Contributing
+* **Python / Bağımlılık Gerektirmez:** Doğrudan `.exe` dosyasını çalıştırarak kullanabilirsiniz.
+* **DPI Engellerini Aşar:** Derin paket inceleme kısıtlamalarını baypas eder.
+* **Yüksek Hız & Düşük Ping:** Oyunlarda (Minecraft, Roblox vb.) ve günlük kullanımda yüksek performans sağlar.
+* **Kolay Kurulum:** Tek tıkla servisleri aktif eder.
 
-Contributions, issues, and feature requests are welcome! Feel free to check out the [Issues page](../../issues) if you want to contribute.
+---
 
-## 📜 License
+## 🔧 Kurulum ve Kullanım
 
-This project is licensed under the [MIT License](LICENSE).
+1. [İndirme Bağlantısından](https://linkvertise.com/10248007/tHvrOBXcKRla) `DPI-DNS-Servisi.exe` dosyasını indirin.
+2. İndirdiğiniz dosyaya sağ tıklayıp **Yönetici Olarak Çalıştır** seçeneğini seçin.
+3. Ekrandaki yönlendirmeleri takip ederek servisi aktif edin.
+
+> 💡 **Not:** Eğer sisteminizde Cloudflare DNS veya özel DNS yapılandırması yüklü değilse, en iyi performans ve hız için [1.1.1.1 (Cloudflare WARP)](https://1.1.1.1/) uygulamasını yüklemeniz önerilir.
+
+---
+
+## ☕ Projeye Destek Ol / Support Us
+
+SuperVPN ve Infinity AI gibi açık kaynaklı projelerimizin sunucu ve geliştirme maliyetlerine destek olmak isterseniz bize bir kahve ısmarlayabilirsiniz! 🚀
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/arteon)
+
+---
+
+## 📜 Lisans
+
+Bu proje **Arteon AI Co.** tarafından geliştirilmiş olup açık kaynaklıdır.
